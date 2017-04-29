@@ -1,1 +1,1 @@
-ta es una prueba de tag en Git
+Ezta es una prueba de tag en Git
